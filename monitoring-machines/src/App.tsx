@@ -1,8 +1,10 @@
+import Home from "./page/Home";
+
 function App() {
   return (
-   <div className="App">
-    <h1>Hello Word</h1>
-   </div>
+    <div className="App">
+      <Home/>
+    </div>
   );
 }
 
